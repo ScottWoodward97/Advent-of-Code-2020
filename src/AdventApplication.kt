@@ -20,7 +20,10 @@ fun main() {
 //    println(Q7().partA())
 //    println(Q7().partB())
 
-    println(Q8().partA())
-    println(Q8().partB())
+//    println(Q8().partA())
+//    println(Q8().partB())
+
+    println(Q9().partA())
+    println(Q9().partB())
 
 }
