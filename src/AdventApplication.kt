@@ -30,6 +30,6 @@ fun main() {
 //    println(Q10().partB())
 
     println(Q11().partA())
-
+    println(Q11().partB())
 
 }
