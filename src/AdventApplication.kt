@@ -35,8 +35,10 @@ fun main() {
 //    println(Q12().partA())
 //    println(Q12().partB())
 
-    println(Q13().partA())
-    println(Q13().partB())
+//    println(Q13().partA())
+//    println(Q13().partB())
 
+    println(Q14().partA())
+    println(Q14().partB())
 
 }
